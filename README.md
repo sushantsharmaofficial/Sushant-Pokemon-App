@@ -20,7 +20,7 @@ Welcome to the Pokémon React App, a web application built with React, designed 
 
 # Features
 
-1. In Homepage, you can find Navigation Bar where yo can find Logo and Search Bar section.
+1. In Homepage, you can find Navigation Bar where you can find Logo and Search Bar section.
 2. In Left side, you can see the hiding Filter bar section where you can filter the pokemon according to its type.
 3. Separate PokemonPage is also there where you can see the stats of each pokemon.
 4. In home, At first you can see only 50 pokemons then there is See more button where its add 50 more pokemon card to the page
@@ -72,16 +72,16 @@ To deploy this project I have used vercel
 
 ## Demo
 
-###HomePage
+HomePage
 <img src="https://i.pinimg.com/736x/13/86/9f/13869f11f4e2cb6132088dea06be0fd6.jpg" />
 
-###PokemonPage
+PokemonPage
 <img src="https://i.pinimg.com/736x/2c/7c/50/2c7c50ae55aff8b49637189bbe9d224a.jpg" />
 
-###SearchPageFeature
+SearchPageFeature
 <img src="https://i.pinimg.com/736x/ef/9f/2b/ef9f2bed58032c6462b519d1fd4fd59b.jpg" />
 
-###FilterPanelFeature
+FilterPanelFeature
 <img src="https://i.pinimg.com/736x/d9/6b/e2/d96be2aeaf3a8bfa078914424262cf98.jpg" />
 
 
