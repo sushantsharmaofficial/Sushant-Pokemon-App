@@ -22,10 +22,7 @@ export const Navigation = () => {
     <>
       <header className="container">
         <Link to="/" className="logo">
-          <img
-            src=" https://i.pinimg.com/736x/e5/cd/a0/e5cda00ef5f39b49c60615f3e7dbc7cf.jpg"
-            alt="Logo Pokedex"
-          />
+          <img src={logo} alt="Logo Pokedex" />
         </Link>
 
         <form onSubmit={onSearchSubmit}>
