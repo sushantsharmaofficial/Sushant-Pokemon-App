@@ -23,7 +23,7 @@ export const Navigation = () => {
       <header className="container">
         <Link to="/" className="logo">
           <img
-            src="https://assets.stickpng.com/images/612ce4761b9679000402af1c.png"
+            src=" https://i.pinimg.com/736x/e5/cd/a0/e5cda00ef5f39b49c60615f3e7dbc7cf.jpg"
             alt="Logo Pokedex"
           />
         </Link>
