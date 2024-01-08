@@ -85,7 +85,9 @@ FilterPanelFeature
 <img src="https://i.pinimg.com/736x/d9/6b/e2/d96be2aeaf3a8bfa078914424262cf98.jpg" />
 
 
-#Conclusion
+
+
+# Conclusion
 
 so in this Project, You can larn about ConText API, Routing, API handling, Search Component and how it works and the fIlter section as well. You can find the unlimited listing of the pokemcard in the home page and separate Pokemon page where you can se  the stats of Pokemon and its specification. Thank You.....
 
