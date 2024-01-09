@@ -7,12 +7,12 @@ export const PokemonProvider = ({ children }) => {
   const [globalPokemons, setGlobalPokemons] = useState([]);
   const [offset, setOffset] = useState(0);
 
-  // Utilizar CustomHook - useForm
+  // Utilize CustomHook - useForm
   const { valueSearch, onInputChange, onResetForm } = useForm({
     valueSearch: "",
   });
 
-  // Estados para la aplicación simples
+  //  Application
   const [loading, setLoading] = useState(true);
   const [active, setActive] = useState(false);
 
@@ -36,7 +36,7 @@ export const PokemonProvider = ({ children }) => {
     setLoading(false);
   };
 
-  // Llamar todos los pokemones
+  // Todos tools for pokemon
   const getGlobalPokemons = async () => {
     const baseURL = "https://pokeapi.co/api/v2/";
 
@@ -54,7 +54,7 @@ export const PokemonProvider = ({ children }) => {
     setLoading(false);
   };
 
-  // Llamar a un pokemon por ID
+  // Pkemon Id
   const getPokemonByID = async (id) => {
     const baseURL = "https://pokeapi.co/api/v2/";
 
@@ -71,7 +71,7 @@ export const PokemonProvider = ({ children }) => {
     getGlobalPokemons();
   }, []);
 
-  // BTN CARGAR MÁS
+  // Load More
   const onClickLoadMore = () => {
     setOffset(offset + 50);
   };
