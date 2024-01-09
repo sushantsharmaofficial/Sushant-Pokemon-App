@@ -16,7 +16,7 @@ export const PokemonProvider = ({ children }) => {
   const [loading, setLoading] = useState(true);
   const [active, setActive] = useState(false);
 
-  // lLamar 50 pokemones a la API
+  // 50 pokemon through API
   const getAllPokemons = async (limit = 50) => {
     const baseURL = "https://pokeapi.co/api/v2/";
 
