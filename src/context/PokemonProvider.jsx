@@ -36,7 +36,7 @@ export const PokemonProvider = ({ children }) => {
     setLoading(false);
   };
 
-  // Todos tools for pokemon
+  // Global For all types  pokemon
   const getGlobalPokemons = async () => {
     const baseURL = "https://pokeapi.co/api/v2/";
 
