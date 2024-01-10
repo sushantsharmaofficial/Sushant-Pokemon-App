@@ -2,7 +2,7 @@
 # Sushant-Pokemon-App
 
 
-Welcome to the Pokémon React App, a web application built with React, designed for Pokémon enthusiasts. Immerse yourself in a seamless experience as you explore a curated list of Pokémon cards.You can search for specific cards by name, and enhance your UI experience with filtering mechanism based on Pokémon types. The intuitive interface ensures a smooth user journey, allowing you to appreciate the details of each card, including names, images, and types.You can also find a seperate Pokemon page where you can see the heright, weight, skills and pokemon number with eye catching UI.
+Welcome to the Pokémon React App, a web application built with React, designed for Pokémon enthusiasts. Immerse yourself in a seamless experience as you explore a curated list of Pokémon cards.You can search for specific cards by name, and enhance your UI experience with filtering mechanism based on Pokémon types. The intuitive interface ensures a smooth user journey, allowing you to appreciate the details of each card, including names, images, and types.You can also find a seperate Pokemon page where you can see the height, weight, skills and pokemon number with eye catching UI.
 
 # Pages
 1. HomePage
